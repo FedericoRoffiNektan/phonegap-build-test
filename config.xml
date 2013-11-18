@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.hello-world"
+	id		= "com.nektan.dabtest"
 	version 	= "1.0.0">
 
 	<name>StatusBar Test</name>
@@ -16,7 +16,7 @@
     
 	<preference name="phonegap-version" value="3.1.0" />
 
-	<gap:plugin name="com.phonegap.plugin.statusbar" />
+	<gap:plugin name="com.phonegap.plugin.statusbar" version="1.0.1"/>
 
 	<gap:platforms>
 		<gap:platform name="ios" />
