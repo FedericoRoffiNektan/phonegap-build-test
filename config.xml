@@ -2,12 +2,12 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.nektan.dabtest"
-	version 	= "1.0.0">
+	version 	= "1.0.1">
 
-	<name>StatusBar Test</name>
+	<name>DabTest</name>
 
 	<description>
-		StatusBar Plugin test app
+		DabTest, let's test the dab
 	</description>
 	
     <author href="http://phonegap.com" email="support@phonegap.com">
